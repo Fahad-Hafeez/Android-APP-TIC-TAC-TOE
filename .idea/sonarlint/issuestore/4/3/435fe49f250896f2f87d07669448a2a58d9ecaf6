@@ -1,0 +1,26 @@
+
+Ù
+java:S1598"»This file "MainActivity.java" should be located in "com\palahsu\ttt" directory, not in "C:\Users\Administrator\Documents\GitHub\Android-APP-TIC-TAC-TOE\app\src\main\java\com\example\ttt".(¡¡±Ç8Ìä¸ÚŒ/
+€
+java:S1450"^Remove the "textViewPlayer1" field and declare it as a local variable in the relevant methods.(…î½˜øÿÿÿÿ8Ìä¸ÚŒ/
+{
+java:S1450"^Remove the "textViewPlayer2" field and declare it as a local variable in the relevant methods.(Î´ñğ8Ìä¸ÚŒ/
+£
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢Ó¯ûÿÿÿÿ8Ìä¸ÚŒ/
+£
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ôú…øÿÿÿÿ8Ìä¸ÚŒ/
+
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰¢í8Ìä¸ÚŒ/
+t	java:S116"XRename this field "Player1Points" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûûÔ†8Ìä¸ÚŒ/
+
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††8Ìä¸ÚŒ/
+]
+java:S1126]"AReplace this if-then-else statement by a single return statement.(Ùæ…8Ìä¸ÚŒ/
+N
+java:S1068"1Remove this unused "Player1Points" private field.(ûûÔ†8Ìä¸ÚŒ/
+S
+java:S1068"1Remove this unused "player2Points" private field.(¶Ò²úùÿÿÿÿ8Ìä¸ÚŒ/
+U
+java:S1068"3Remove this unused "textViewPlayer1" private field.(…î½˜øÿÿÿÿ8Ìä¸ÚŒ/
+P
+java:S1068"3Remove this unused "textViewPlayer2" private field.(Î´ñğ8Ìä¸ÚŒ/
